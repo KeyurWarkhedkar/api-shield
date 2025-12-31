@@ -255,14 +255,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Keyur Warkhedkar**
-- Final Year Computer Applications Student
 - Email: keyurwarkhedkar@gmail.com
 - LinkedIn: https://www.linkedin.com/in/keyurwarkhedkar
 - GitHub: https://github.com/KeyurWarkhedkar
@@ -277,6 +273,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
-
-Built with ❤️ for learning distributed systems and protecting APIs
