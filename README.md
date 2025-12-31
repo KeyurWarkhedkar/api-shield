@@ -267,11 +267,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: https://www.linkedin.com/in/keyurwarkhedkar
 - GitHub: https://github.com/KeyurWarkhedkar
 
-## 🙏 Acknowledgments
-
-- Inspired by production API gateways like Kong and Nginx
-- Built as a final year academic project demonstrating distributed systems concepts
-- Special thanks to [Your College/University Name] for guidance
 
 ## 📚 References
 
